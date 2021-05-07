@@ -1,0 +1,3 @@
+death-messages:
+  nobody: "&6{victim} &eest mort(e)"
+  by-player: "&6{victim} &es'est fait(e) tué(e) par &6{attacker}"

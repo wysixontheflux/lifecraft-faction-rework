@@ -1,0 +1,31 @@
+name: LifecraftFactionCore
+version: 1.0a
+main: fr.martyr.LifecraftFactionCore
+authors: [martyr]
+permissions:
+   xpboost.lieutenant:
+      description: XPDrop 25
+   xpboost.capitaine:
+      description: XPDrop 60
+   xpboost.colonel:
+      description: XPDrop 90
+   xpboost.gardien:
+      description: XPDrop 130
+   xpboost.heros:
+      description: XPDrop 175
+   xpboost.legende:
+      description: XPDrop 250
+commands:
+   rtp:
+      description: rtp
+   discord:
+      description: discord
+   boutique:
+      description: boutique
+   vote:
+      description: vote
+   repair:
+      description: repair
+   furnace:
+      description: furnace
+      
